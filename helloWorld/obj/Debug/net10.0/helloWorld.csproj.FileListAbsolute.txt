@@ -1,0 +1,15 @@
+C:\Users\xialin\my_csharp_proj\helloWorld\bin\Debug\net10.0\helloWorld.exe
+C:\Users\xialin\my_csharp_proj\helloWorld\bin\Debug\net10.0\helloWorld.deps.json
+C:\Users\xialin\my_csharp_proj\helloWorld\bin\Debug\net10.0\helloWorld.runtimeconfig.json
+C:\Users\xialin\my_csharp_proj\helloWorld\bin\Debug\net10.0\helloWorld.dll
+C:\Users\xialin\my_csharp_proj\helloWorld\bin\Debug\net10.0\helloWorld.pdb
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\helloWorld.AssemblyInfo.cs
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\helloWorld.sourcelink.json
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\helloWorld.dll
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\refint\helloWorld.dll
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\helloWorld.pdb
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\helloWorld.genruntimeconfig.cache
+C:\Users\xialin\my_csharp_proj\helloWorld\obj\Debug\net10.0\ref\helloWorld.dll
